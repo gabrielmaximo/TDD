@@ -20,18 +20,18 @@ no teste (green) em seguida, fazemos a refatoração e deixamos o código nos pa
 
 * Ao rodar os testes um relatório de testes que passaram e que falharam será gerado no terminal:
 <h1 align="center">
-    <img alt="Logs" title="TestLogs" src=".github/TestLogs.png" width="250px" />
+    <img alt="Logs" title="TestLogs" src=".github/TestLogs.png" />
 </h1>
 
 ## Para ver as informações dos testes mais detalhadas, pode olhar pelo index.html gerado pelo Jester, ao final de todo novo  
 teste realizado, o caminho do arquivo é ./__tests__/couverage/lcov-report/index.html
 
 <h1 align="center">
-    <img alt="couverage" title="couverage" src=".github/couverage.png" width="250px" />
+    <img alt="couverage" title="couverage" src=".github/couverage.png" />
 </h1>
 
 <h1 align="center">
-    <img alt="codeLogs" title="codeLogs" src=".github/codeLogs.png" width="250px" />
+    <img alt="codeLogs" title="codeLogs" src=".github/codeLogs.png" />
 </h1>
 
 ###### créditos a Rocketseat :wave: [Faça parte dessa comunidade!](https://discordapp.com/invite/gCRAFhc)
