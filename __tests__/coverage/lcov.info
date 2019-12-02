@@ -1,5 +1,5 @@
 TN:
-SF:/home/gabriel/Desktop/RocketSeat/Bootcamp/TDD/Node/src/app/controllers/UserController.js
+SF:/home/gabriel/Desktop/RocketSeat/Bootcamp/TDD/src/app/controllers/UserController.js
 FN:1,_interopRequireDefault
 FN:4,(anonymous_1)
 FNF:2
@@ -26,7 +26,7 @@ BRF:6
 BRH:5
 end_of_record
 TN:
-SF:/home/gabriel/Desktop/RocketSeat/Bootcamp/TDD/Node/src/app/models/User.js
+SF:/home/gabriel/Desktop/RocketSeat/Bootcamp/TDD/src/app/models/User.js
 FN:1,_interopRequireDefault
 FN:5,(anonymous_1)
 FN:18,(anonymous_2)
