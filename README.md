@@ -1,4 +1,4 @@
-# Testes Automatizados utilizando Jester
+# Testes Automatizados utilizando Jest
 
 ## Metodologia de TDD - Test Driven Developer (Desenvolvimento dirigido a testes)
 
@@ -23,7 +23,7 @@ no teste (green) em seguida, fazemos a refatoração e deixamos o código nos pa
     <img alt="Logs" title="TestLogs" src=".github/TestLogs.png" />
 </h1>
 
-## Para ver as informações dos testes mais detalhadas, pode olhar pelo index.html gerado pelo Jester, ao final de todo novo  
+## Para ver as informações dos testes mais detalhadas, pode olhar pelo index.html gerado pelo Jest, ao final de todo novo  
 teste realizado, o caminho do arquivo é ./__tests__/couverage/lcov-report/index.html
 
 <h1 align="center">
