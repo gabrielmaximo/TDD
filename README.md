@@ -33,5 +33,3 @@ teste realizado, o caminho do arquivo é ./__tests__/couverage/lcov-report/index
 <h1 align="center">
     <img alt="codeLogs" title="codeLogs" src=".github/codeLogs.png" />
 </h1>
-
-###### créditos a Rocketseat :wave: [Faça parte dessa comunidade!](https://discordapp.com/invite/gCRAFhc)
